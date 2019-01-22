@@ -1,0 +1,12 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Just a starter foundation to fork from ",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.0-alpha.0",
+    "react-dom": "16.8.0-alpha.0",
+    "styled-components": "4.1.3"
+  }
+}
